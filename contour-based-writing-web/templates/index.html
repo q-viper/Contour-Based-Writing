@@ -1,0 +1,85 @@
+<head>
+    <title>
+        Tindex
+    </title>
+    <style>
+        /* .frame img{
+            float:left;
+            width: 45%;
+            padding: 1px;
+        }
+        .frame figcaption{
+            text-align:center; 
+            font-style:italic;
+        }
+        .draw img{
+            float:right;
+            width: 45%;
+            padding: 1px;
+        }
+
+        .frame figcaption{
+            text-align:bottom; 
+            font-style:italic;
+        } */
+        .container{
+            display: flex;
+            flex-direction: row;
+            flex-grow: 1;
+        }
+        .photos{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+        .image{
+            display: block;
+            width: 100%;
+        }
+        .word{
+            display: block;
+            width: 100%;
+            text-align: center;
+        }
+    </style>
+    <body>
+        <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='style/main.css') }}"> -->
+    <h1>Contour Based Writing System</h1>
+
+    <div class="container">
+        <div class="photos">
+            <img class="image" src = "{{url_for('video_feed')}}">
+            <span class = "word">Frames</span>
+        </div>
+        <div class="photos">
+            <img class="image" src = "{{url_for('get_canvas')}}">
+            <span class = "word">Canvas</span>
+        </div>
+    </div>
+
+    <!-- <form action="" method="post" enctype="multipart/form-data"> -->
+    <!-- <div class="img_holder">
+        <figure class="frame">
+        <img src = "{{url_for('video_feed')}}" height=520 width=520> 
+        <figcaption style = "text-align:center; font-style:italic">Frame</figcaption>
+        </figure>
+      
+        <figure class="draw">
+            <img src = "{{url_for('get_canvas')}}" height=520 width=520>
+            <figcaption style = "text-align:center; font-style:italic">Draw</figcaption>
+        </figure>
+    </div> -->
+    
+    <!-- <input type="text" name="user_id" placeholder="user_id" class="form-control form-control-sm text-left">
+    <button  onclick="{{url_for('get_canvas')}}" class="btn-dark" value="Capture">Login </button>
+       
+    <input type="submit" value="Capture"> -->
+    <!-- </form> -->
+    <hr>
+    <div>
+        <iframe src="detection.html" style="float: inline-end;"></iframe>
+    </div>
+    
+</body>
+</head>
