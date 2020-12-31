@@ -25,6 +25,7 @@ If you are running this system after installation, then try to install libraries
 
 ## Implementation
 Until 5th version, the system is only python code and there is nothing like implementation. However I have made it Web based. But this web application is runnable locally only.
+This is the [notebook](https://github.com/q-viper/Contour-Based-Writing/blob/master/Contour%20Based%20Writing-%20New%20VUI%2C%20Adding%20Slider%2C%20More%20Colors%2C%20New%20Animation%20and%20Code%20Optimization.ipynb) I recommend to view.
 
 ## Versions
 * [Gesture Based Visually Writing System Using OpenCV and Python](https://q-viper.github.io/2020/08/01/gesture-based-visually-writing-system-using-opencv-and-python/)
