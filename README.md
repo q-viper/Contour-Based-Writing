@@ -6,12 +6,16 @@ Well above line is just a joke. This porject is under developing stage and I mys
 
 
 ## Contents
+* Demo
 * Introduction
 * Requirements
 * Implementation
 * Versions
 * What next?
 * Want to contribute?
+
+## Demo
+[Please follow this link to view demo video](https://q-viper.github.io/assets/contour-writing/web%20app.mp4).
 
 ## Introduction
 The primary focus of this project is to perform a Gesture Based Writing System(but it is still working by contours). But I have not used Gesture recognition here. In fact until the [5th version](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/) of this project I have not added gesture recognition scheme. Hence the correct name is Contour Based Writing System. The entire concepts of working system can be clearly understood by reading the [blog of first version](https://q-viper.github.io/2020/08/01/gesture-based-visually-writing-system-using-opencv-and-python/) where I have tried to explain theoritical concepts and all the working ideas. If you have any ideas or thoughts about the system please, contact me on [LinkedIn](https://www.linkedin.com/in/ramkrishna-acharya-91a217183/). 
