@@ -34,7 +34,7 @@ This is the [notebook](https://github.com/q-viper/Contour-Based-Writing/blob/mas
 ## Versions
 * [Gesture Based Visually Writing System Using OpenCV and Python](https://q-viper.github.io/2020/08/01/gesture-based-visually-writing-system-using-opencv-and-python/)
 * [Gesture Based Visually Writing System: Adding Visual User Interface](https://q-viper.github.io/2020/08/10/gesture-based-visually-writing-system-make-a-visual-user-interface/)
-* [Gesture Based Visually Writing System: Adding Virtual Animationn, New Mode and New VUI](https://q-viper.github.io/2020/08/14/gesture-based-visually-writing-system-adding-virtual-animation-new-mode-and-new-vui/)
+* [Gesture Based Visually Writing System: Adding Virtual Animation, New Mode and New VUI](https://q-viper.github.io/2020/08/14/gesture-based-visually-writing-system-adding-virtual-animation-new-mode-and-new-vui/)
 * [Gesture Based Visually Writing System: Add Slider, More Colors and Optimized OOP code](https://q-viper.github.io/2020/08/20/gesture-based-visually-writing-system-add-slider-more-colors-and-optimized-code/)
 * [Gesture based Visually Writing System: Deploy It! on Web app](https://q-viper.github.io/2020/08/28/gesture-based-visually-writing-system-web-app/)
 
